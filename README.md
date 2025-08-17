@@ -1,24 +1,68 @@
 <h1 align="center">Hi 👋, I'm Anindita Sarkar</h1>
 <h3 align="center">An aspiring software engineer who loves to turn ideas into code</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aninditasarkar2003&label=Profile%20views&color=0e75b6&style=flat" alt="aninditasarkar2003" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=aninditasarkar2003&label=Profile%20views&color=0e75b6&style=flat" alt="aninditasarkar2003" /> 
+</p>
 
-- 🌱 I’m currently learning **JavaScript, React, Nextjs**
+---
 
-- 📫 How to reach me **aninditasarkar678@gmail.com**
+### 👩‍💻 About Me  
+💡 Passionate about building scalable web applications and AI solutions.  
+🚀 Currently exploring **JavaScript, React, Next.js, and Cloud Computing**.  
+🎯 Goal: To contribute to impactful projects in software engineering & AI.  
+📫 Reach me at **aninditasarkar678@gmail.com**  
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🌐 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/anasarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anasarkar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aninditasarkar61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aninditasarkar61" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/aninditasarkarofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aninditasarkarofficial" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aninditasarkar2003&show_icons=true&locale=en&layout=compact" alt="aninditasarkar2003" /></p>
+### 🛠️ Languages and Tools:
+<p align="left"> 
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> 
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/> 
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> 
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aninditasarkar2003&show_icons=true&locale=en" alt="aninditasarkar2003" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aninditasarkar2003&" alt="aninditasarkar2003" /></p>
+### 🚀 Featured Projects  
+- [**Sight Sense**](https://github.com/aninditasarkar2003/Sight-Sense) – Assistive device for visually impaired using CNN + Raspberry Pi.  
+- [**AgroYield**](https://github.com/aninditasarkar2003/AgroYield) – Crop yield prediction using ML pipeline.  
+- [**Zoo Animals Interactive Site**](https://github.com/aninditasarkar2003/Zoo-Animals) – 50+ animal profiles with habitats & facts.  
+
+---
+
+### 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aninditasarkar2003&theme=radical&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aninditasarkar2003&show_icons=true&locale=en&layout=compact&theme=radical" alt="aninditasarkar2003" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aninditasarkar2003&show_icons=true&locale=en&theme=radical" alt="aninditasarkar2003" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aninditasarkar2003&theme=radical" alt="aninditasarkar2003" /></p>
+
+---
+
+⚡ Fun fact: I love blending tech & creativity — from AI models to designing cool frontends!  

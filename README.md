@@ -49,13 +49,6 @@
 
 ---
 
-### 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aninditasarkar2003&theme=radical&no-frame=true&margin-w=15" />
-</p>
-
----
-
 ### 📊 GitHub Stats  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aninditasarkar2003&show_icons=true&locale=en&layout=compact&theme=radical" alt="aninditasarkar2003" /></p>
 
